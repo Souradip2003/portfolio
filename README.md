@@ -6,10 +6,7 @@ This portfolio highlights my **projects, skills, and experiences** as a **Full S
 ---
 
 ## 🚀 Live Demo
-
 🔗 [View Portfolio Live](https://portfolio-blush-seven-51.vercel.app/)  
-*(Replace with your actual deployed link once live)*
-
 ---
 
 ## 🛠️ Tech Stack
